@@ -1,0 +1,24 @@
+[
+    
+    {   
+        "id" : "1",
+        "name" : "product-1",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_EswL5SSVY8cmexU3Z5rmkPTTcbtm9SCcMg&usqp=CAU",
+        "description" : "product one",
+        "price": "50$"
+    },
+
+    {   
+        "id" : "2",
+        "name" : "product-2",
+        "image" : "https://images.pexels.com/photos/236915/pexels-photo-236915.jpeg?cs=srgb&dl=pexels-anthony-derosa-236915.jpg&fm=jpg",
+        "description" : "product two",
+        "price": "80$"
+    },  {   
+        "id" : "3",
+        "name" : "product-3",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_EswL5SSVY8cmexU3Z5rmkPTTcbtm9SCcMg&usqp=CAU",
+        "description" : "product three",
+        "price": "150$"
+    }
+]
