@@ -28,7 +28,7 @@ type handelDeleted = {
                         </div>
                         <button onClick={() => {
                             route.push(`/get-product/${el.id}`)
-                        }} className="text-md text-white transition bg-[#1a202d] py-3 mx-5 my-1 phone:mt-[1px] rounded-md font-bold w-[96%] hover:bg-[#0000ffaf] flex justify-center items-center">Shwo Details</button>
+                        }} className="text-md text-white transition bg-[#1a202d] py-3 mx-5 my-1 phone:mt-[1px] rounded-md font-bold w-[96%] hover:bg-[#0000ffaf] flex justify-center items-center">Show Details</button>
                         <button onClick={() => {
                             route.push(`/get-product/${el.id}/${el.name}`)
                         }} className="text-md text-white transition bg-[#1a202d] py-3 mx-5 my-1 phone:mt-[1px] rounded-md font-bold w-[96%] hover:bg-[#0000ffaf] flex justify-center items-center">Update</button>
